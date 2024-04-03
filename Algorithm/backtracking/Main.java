@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Main
+ ** @Diagram [https://app.diagrams.net/#G19aisFz8ZdoM-3_w88NjMcc03ibxEhIx7#%7B%22pageId%22%3A%22OhsN6Br1bW_n3V8B0wL3%22%7D]
  */
 public class Main {
     public static void main(String[] args) {
